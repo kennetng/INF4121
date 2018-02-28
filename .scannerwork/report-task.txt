@@ -1,0 +1,7 @@
+organization=kennetng-github
+projectKey=INF4121PROSJEKT
+serverUrl=https://sonarcloud.io
+serverVersion=7.1.0.36868
+dashboardUrl=https://sonarcloud.io/dashboard/index/INF4121PROSJEKT
+ceTaskId=AWHc2Ytg-T_TB3Xqowzo
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWHc2Ytg-T_TB3Xqowzo
